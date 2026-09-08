@@ -10,5 +10,6 @@ participating in the covenant committee.
 
 At the moment, the following networks are live.
 Head over to their pages for more details:
-* [Babylon Mainnet](./bbn-1)
-* [Babylon Testnet](./bbn-test-5)
+* [MOTEB_ALOTAIBI Mainnet]
+* 
+ 
